@@ -27,7 +27,7 @@ class _InputPageState extends State<InputPage> {
         child: Text('Hey Buddy'),
       ),
       floatingActionButton: FloatingActionButton(
-        child: Icon(Icons.home),
+        child: Icon(Icons.add),
         onPressed: null,
       ),
     );
